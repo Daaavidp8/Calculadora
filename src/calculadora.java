@@ -18,10 +18,10 @@ public class calculadora extends JPanel{
     private JButton aLessButton;
     private JButton aPlusButton;
     private JButton aEqualButton;
-    private fondo fondo1;
     private crear ventana;
     private String calculo = "";
 
+    private fondo fondo1;
     private int numanterior;
     private int numactual;
     private String botonAnterior;

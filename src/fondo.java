@@ -3,7 +3,7 @@ import java.awt.*;
 
 
 
-class fondo extends JPanel {
+class fondo extends JPanel{
     public static String ruta;
     @Override
     protected void paintComponent(Graphics g) {
